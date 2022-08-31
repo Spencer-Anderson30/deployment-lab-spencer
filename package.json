@@ -1,0 +1,23 @@
+{
+  "name": "deployment-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spencer-Anderson30/deployment-lab-spencer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spencer-Anderson30/deployment-lab-spencer/issues"
+  },
+  "homepage": "https://github.com/Spencer-Anderson30/deployment-lab-spencer#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
