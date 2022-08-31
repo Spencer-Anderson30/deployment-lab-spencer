@@ -1,8 +1,9 @@
 #img {
     display: flex;
-
 }
-
+body {
+    display: color black;
+}
 .text {
     display: flex;
     flex-direction: column;
