@@ -1,0 +1,19 @@
+h1 {
+    color:blue;
+    background-color:red;
+}
+#alpha {
+    color: red;
+}
+.bravo {
+    color: aqua;
+}
+.charlie {
+    color: green;
+}
+.delta {
+    color: blue;
+}
+.echo {
+    color: rgb(255, 0, 234);
+}
